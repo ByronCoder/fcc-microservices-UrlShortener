@@ -1,5 +1,6 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
+Used Tutorial by Dylan Israel for this code: https://www.youtube.com/watch?v=5T1YDRWaa3k and https://www.youtube.com/watch?v=nSVzUH9NvSw
 
 ### User Stories
 
